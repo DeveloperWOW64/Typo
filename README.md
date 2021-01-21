@@ -1,6 +1,6 @@
 # Typo
 
-# Description
+# Description:
 
 Typo is a smart little assistant. (at least I hope he will be when I finish him.
 I am coding him in VS Code.
