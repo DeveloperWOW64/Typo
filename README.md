@@ -1,5 +1,7 @@
 # Typo
 
+![name-of-you-image](DeveloperWOW64/Typo/Pictures/Typo.png)
+
 # Description:
 
 Typo is a smart little assistant. (at least I hope he will be when I finish him.
