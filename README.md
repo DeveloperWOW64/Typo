@@ -8,4 +8,6 @@ He is not really visual, rather, he is command line based (looks like a command 
 
 # Notes:
 
-He is stored in *.py files rather than *.exe or *.app or *.cmd or etc
+src: Source code
+
+exe: Executable code
