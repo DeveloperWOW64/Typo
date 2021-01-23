@@ -1,6 +1,6 @@
 # Typo
 
-![name-of-you-image](DeveloperWOW64/Typo/Pictures/Typo.png)
+![](https://github.com/DeveloperWOW64/Typo/Pictures/Typo.png)
 
 # Description:
 
